@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faveroWarm" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D77B47"/>
+      <stop offset="1" stop-color="#8D3D18"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#faveroWarm)"/>
+  <path d="M16 43L30.9 17H33.1L48 43H40.4L37.9 38.1H26.1L23.6 43H16ZM29.3 32.7H34.8L32 27.1L29.3 32.7Z" fill="#FFF8F2"/>
+</svg>
