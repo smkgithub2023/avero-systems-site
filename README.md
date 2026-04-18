@@ -5,6 +5,7 @@ This folder contains a ready-to-deploy static landing page for `Avero Systems`.
 ## Files
 
 - `index.html`
+- `coming-soon.html`
 - `styles.css`
 - `.nojekyll`
 

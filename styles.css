@@ -133,6 +133,15 @@ body::before {
   padding: 52px 0 26px;
 }
 
+.hero-single {
+  grid-template-columns: 1fr;
+}
+
+.hero-single .hero-copy {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
 .hero-copy,
 .hero-panel,
 .feature-card,
